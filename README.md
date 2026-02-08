@@ -14,7 +14,7 @@
 
 ### Ссылки
 
-Репозиторий решения: [https://github.com/thetaff/social-proof-section](https://github.com/thetaff/social-proof-section)
+- Репозиторий решения: [https://github.com/thetaff/social-proof-section](https://github.com/thetaff/social-proof-section)
 - Живой сайт (Live Site): [https://thetaff.github.io/social-proof-section/](https://thetaff.github.io/social-proof-section/)
 
 ## Мой процесс
